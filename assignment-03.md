@@ -22,6 +22,8 @@ very clever reason.
 **1a)** Given a $N$ dollars, state a greedy algorithm for producing
 as few coins as possible that sum to $N$.
 
+
+
 **enter answer in `answers.md`**
 
 
@@ -52,6 +54,8 @@ possible?
   greedy algorithm does not produce the fewest number of coins.
   
 **enter answer in `answers.md`**
+
+
 
 
 **2b)** Since you paid attention in Algorithms class, you realize that
